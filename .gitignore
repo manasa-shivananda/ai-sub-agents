@@ -1,0 +1,21 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+*.egg-info/
+.mypy_cache/
+
+# Project
+traces.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
